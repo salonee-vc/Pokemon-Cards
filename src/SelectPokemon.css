@@ -1,0 +1,29 @@
+.Sub-title{
+    font-weight: 600;
+    color:  #3a5d9f;
+    font-size: 24px;
+  }
+
+.Search-input{
+    border: 1px solid #c1c8ca;
+    border-radius: 3px;
+    height: 44px;
+    width: 60%;
+    margin: 2% 18%;
+    display: block;
+}  
+
+.Search-Name{
+  background-color: #3a5d9f;
+    /* border: 0; */
+    border-radius: 9999px;
+    color: white;
+    font-size: 14px;
+    /* font-family: inherit; */
+    /* mix-blend-mode: screen; */
+    padding: 4px 8px;
+    width: 6%;
+    margin: 0.1% 18%;
+    
+}
+ 
